@@ -1,3 +1,3 @@
-from src.MLProject.logging import logger
+from src.MLProject import logger
 
-logger.info("This is our Output")
+logger.info("My name is Wahab")
